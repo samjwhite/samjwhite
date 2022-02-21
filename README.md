@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samjwhite
-- 👀 I’m interested in C#, Arduino, Raspberry Pi, Drones
+- 👀 I’m interested in C#, JS, UI
 - 🌱 I’m currently learning C#, .NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 💞️ I’m looking to collaborate on .NET Core MVC projects
+- 📫 How to reach me : serge.riazanov@gmail.com
 
 <!---
 samjwhite/samjwhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
