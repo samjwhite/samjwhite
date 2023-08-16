@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Serge
-- 👨‍💻 Coding for TripArc
+- 👨‍💻 Coding for TripArc and just for fun 
 - 👀 I’m interested in C#, JS, TS
 - 📫 Reach me at : serge.riazanov@gmail.com
 
