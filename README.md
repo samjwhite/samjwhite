@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Serge
 - 👨‍💻 Coding for TripArc
 - 👀 I’m interested in C#, JS, TS
-- 🌱 I’m currently learning Angular
 - 📫 Reach me at : serge.riazanov@gmail.com
 
 <!---
